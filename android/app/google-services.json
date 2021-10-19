@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717163456564",
+    "project_id": "rnativeproject-a8102",
+    "storage_bucket": "rnativeproject-a8102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717163456564:android:6d233c0c07d0cab92cc261",
+        "android_client_info": {
+          "package_name": "com.learningproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717163456564-cnba47ljkqltctni048ntdh9eintp4ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVlbp0JmZhi9qXxZh5Jsq7H0DG6eqx6kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717163456564-cnba47ljkqltctni048ntdh9eintp4ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
